@@ -44,7 +44,7 @@ library Ethereum {
     address internal constant VAT         = 0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B;
 
     /******************************************************************************************************************/
-    /*** SparkDAO Addresses                                                                                         ***/
+    /*** KeelDAO Addresses                                                                                         ***/
     /******************************************************************************************************************/
 
     address internal constant KEEL_PROXY   = 0x355CD90Ecb1b409Fdf8b64c4473C3B858dA2c310;
@@ -60,7 +60,7 @@ library Ethereum {
     address internal constant ALLOCATOR_VAULT	 = 0xe4470dd3158f7a905cdea07260551f72d4bb0e77;
 
     /******************************************************************************************************************/
-    /*** Spark Liquidity Layer Addresses                                                                            ***/
+    /*** Keel Liquidity Layer Addresses                                                                            ***/
     /******************************************************************************************************************/
 
     address internal constant ALM_CONTROLLER  = 0xc71D8CE2EcD602F6d110b2864766Fe1C26557ff3;
