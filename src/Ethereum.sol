@@ -63,9 +63,9 @@ library Ethereum {
     /*** Keel Liquidity Layer Addresses                                                                            ***/
     /******************************************************************************************************************/
 
-    address internal constant ALM_CONTROLLER  = 0xc71D8CE2EcD602F6d110b2864766Fe1C26557ff3;
-    address internal constant ALM_PROXY       = 0x593246E8CA9D0B001199B3f60DB74860D2611EBF;
-    address internal constant ALM_RATE_LIMITS = 0xC8a690eCe418BE2d8782572D3c5D57A0d92BE520;
+    address internal constant ALM_CONTROLLER  = 0xEF26BDc34F35669C235345aeF24A251B1EE80EF3;
+    address internal constant ALM_PROXY       = 0xa5139956eC99aE2e51eA39d0b57C42B6D8db0758;
+    address internal constant ALM_RATE_LIMITS = 0x65E7B39e508944F7C4278d3e4580f84Eb20b26a7;
 
     address internal constant ALM_FREEZER  = 0xBCCB60cf518391d3315D63313F7bb764d02541fE;
     address internal constant ALM_RELAYER  = 0xA4F39dAae4Dc86c27c46b9a0605AE2c911451F95;
