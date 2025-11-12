@@ -78,4 +78,9 @@ library Ethereum {
 
     address internal constant CCTP_TOKEN_MESSENGER = 0xBd3fa81B58Ba92a82136038B25aDec7066af3155;
 
+    address internal constant USDS_SKY_OFT_ADAPTER = 0x1e1D42781FC170EF9da004Fb735f56F0276d01B8;
+
+    // This was calculated by decoding the Solana base58 address `EeWDutgcKNTdQGJkGRrWYmTXXuKnPUZNvXepbLkQrxW4` into hex
+    bytes32 internal constant KEEL_SVM_ALM_CONTROLLER_AUTHORITY = 0xcac3764c231540dd2364f24c78fe8f491c08c42ef2ed370f22904eda9ac48609;
+
 }
