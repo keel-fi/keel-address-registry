@@ -86,6 +86,6 @@ library Ethereum {
     // This was calculated by decoding the Solana base58 address `EeWDutgcKNTdQGJkGRrWYmTXXuKnPUZNvXepbLkQrxW4` into hex
     bytes32 internal constant KEEL_SVM_ALM_CONTROLLER_AUTHORITY = 0xcac3764c231540dd2364f24c78fe8f491c08c42ef2ed370f22904eda9ac48609;
 
-        // This was calculated by decoding the Solana base58 address `4UA2CC9fQDTbX1SnJcanYn2QU5PtyB1MGfezDvGFPVwd` into hex
+    // This was calculated by decoding the Solana base58 address `4UA2CC9fQDTbX1SnJcanYn2QU5PtyB1MGfezDvGFPVwd` into hex
     bytes32 internal constant KEEL_SVM_ALM_CONTROLLER_AUTHORITY_USDC_ATA = 0x3387f134e4a16b92ee3cb364cbca054a8ec384932b537620588263ec760e6b40;
 }
